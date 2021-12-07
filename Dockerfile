@@ -1,3 +1,5 @@
+# Author: Joshua Sia
+
 FROM jupyter/base-notebook
 
 RUN echo apt-get update
